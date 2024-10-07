@@ -1,0 +1,12 @@
+python-dotenv
+python-fasthtml==0.6.9
+langchain-together==0.2.0
+pytube==15.0.0
+fastlite==0.0.11
+sqlite-minutils==3.37.0.post3
+tiktoken==0.7.0
+langchain-core==0.3.6
+langchain-chroma==0.1.4
+langchain-community==0.3.1
+langchain-mongodb==0.2.0
+sentence-transformers==3.1.1
