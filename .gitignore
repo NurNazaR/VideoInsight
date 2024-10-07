@@ -5,6 +5,9 @@ node_modules/
 __pycache__/
 node_modules/
 
+# ingore venv files
+videoinsight/
+
 # Ignore log files
 *.log
 

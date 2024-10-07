@@ -184,8 +184,7 @@ def __ft__(self:Videa):
 
 # The main screen
 @rt("/")
-def get(auth, session):
-    if 'auth_id' not in session: session['auth_id'] = str(uuid.uuid4())
+def get(auth, ):
     title = f"Welcome to {auth}'s workspace"
     top = Grid(H1(title), Div(A('logout', href='/logout'), style='text-align: right'))
     
@@ -298,4 +297,4 @@ def send(msg:str, messages:list[str]=None):
             ChatMessage(r.rstrip(), False), # The chatbot's response
             ChatInput()) # And clear the input field via an OOB swap
     
-if __name__ == '__main__': uvicorn.run("main:app", host='0.0.0.0', port=int(os.getenv("PORT", default=5001)))
+serve(port=5001, reload=True)

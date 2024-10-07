@@ -11,6 +11,40 @@ Features
 * SQLite Database: Stores history of summaries for easy retrieval.
 * RAG-Based Chatbot: Provides intelligent, context-aware interactions.
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/NurNazaR/VideoInsight.git
+```
+
+Go to the project directory
+
+```bash
+  cd VideoInsight
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Create .env file and put api keys inside the .env
+- https://www.together.ai/
+- https://www.mongodb.com/ 
+```bash
+  TOGETHER_API_KEY=your_api_key_here
+  MONGODB_URL=your_mongodb_uri_here
+```
+
+Run main.py file and web app will be hosted in local 5001 port
+```bash
+  python main.py
+```
+
 ## Acknowledgements
  - [FastHTML documentation](https://docs.fastht.ml/)
  - [FastHTML example repos](https://github.com/AnswerDotAI/fasthtml/tree/main/examples)

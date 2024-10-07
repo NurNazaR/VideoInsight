@@ -1,12 +1,388 @@
-New York Tech is Reinventing the
-future we're over the moon creating
-prototypes for NASA but this reinvention
-also means a look into our past which
-makes for a really cute Story part of
-Pixar's origin story
-actually our students are doers makers
-and innovators who do not quit the world
-awaits us and I have no doubt that we
-will leave a permanent Mark wherever we
-go this is your opportunity and this is
-your place
+the CEO of open AI said just two days
+ago that AI models have reached the
+level of human reasoning human level
+problem solving in a sea of hype though
+claims like this have to be taken with a
+gallon of salt naturally but my question
+is this is it not now easier to come up
+with a reasoning challenge that the new
+01 family of models passes and an
+educated adult would fail than the other
+way around yes of course while 01 makes
+plenty of embarrassing mistakes so do we
+so is this not a watershed moment either
+way I'm going to analiz four new key
+quotes from samman give you the backdrop
+of open ai's new
+$157 billion valuation and provide as
+much context as I can for his key claim
+the key claim that samman made at devday
+less than 48 hours ago was that the new
+01 series of models are human level
+problem solvers they don't output the
+first thing that comes to mind so to
+speak they reason their way through
+challenging problems this chart released
+in July I've realized is open ai's
+version of a levels of AGI chart for me
+it sets a very high bar for what would
+count as an AGI but it does mimic five
+things that humans can do in increasing
+order of difficulty we can chat we can
+reason our way through problems we can
+take actions in the world we can
+innovate and we can organize together
+forget levels three and above for a
+moment just claiming we've reached level
+two is a bold enough announcement
+already here is a 60-second extract from
+Dev day and if you're wondering about
+the strange video setup it's actually a
+massive improvement from the super shaky
+footage that's circulating online
+essentially I used Adobe warp stabilizer
+so it's a bit easier to watch Alman here
+claims we are at level
+two how close are we to
+AI you know
+[Music]
+we we used to every time we finished a
+system we would say like in what way is
+this this not an AGI and it used to be
+like very easy you could like make a
+whole robotic hand that does Rix Cube or
+a doot it's like oh it does some things
+but definitely not an AI um it's
+obviously harder to say no so we we're
+trying to like stop talking about AGI as
+this General thing and we have this
+levels framework because the word AGI
+has become so overloaded um so like real
+quickly we use one for chat Bots two for
+reasoners three for agents four for
+innovators and five for organizations
+like roughly I think we clearly got to
+level two or we believe we clearly got
+to level two with 01 um and it you know
+can do really quite impressive cognitive
+task it's a very smallart model um it
+doesn't feel AGI like in a few important
+ways but I think if you just do the one
+next step of making a you know very
+agent like which is our level three and
+which I think we will be able to do in
+the not distant future it will
+feel surprisingly capable being totally
+honest the next two key quotes I might
+previously have dismissed as being pure
+hype but after the 01 preview release
+I'm less inclined to do so first is the
+commitment that the next two years are
+going to see very steep progress if you
+go from like 0 one on a hard problem
+back to like four turbo that we launched
+11 months ago you'll be like wow this is
+happening pretty fast
+um and I think the next year will be
+very steep next two years I be very
+steep progress harder than that hard to
+see lot of and next and he didn't have
+to go this far is the claim that this
+time next year there will be as big a
+gap from that model to 01 as from 01 to
+gp4 Turbo the model is going to get so
+much better so fast like we are so early
+this is like you know maybe it's the
+gbt2 scale moment but like we know how
+to get to the gp4 we have the
+fundamental stuff in place how to get to
+the
+gp4 and in addition to planning for us
+to build all of those things plan for
+the model to just get like rapidly
+smarter like you know hope you all come
+back next year and plan for it to feel
+like way more of a year of improvement
+than from for I'll save the last key
+quote for later on in the video but in
+case you're skeptical of his or even my
+analysis a plethora of professors and
+scientists have described an incipient
+form of reasoning within 01 one top
+researcher said in my field of quantum
+physics it gives significantly more
+detailed and coherent responses another
+molecular biologist said that 01 breaks
+the plateau that the public feared llms
+were heading into then we have the
+creator of The Graduate level Google
+proof Q&A Benchmark tests that's become
+famous it's targeted at PhD level
+Scholars who score an average of around
+6 % one of the authors of that Benchmark
+said it seems plausible to me that the
+01 family represents a significant and
+fundamental Improvement in the model's
+core reasoning capabilities just
+yesterday a professor of mathematics
+described a moving Frontier between what
+can and cannot be done with llms and
+that that boundary has just shifted a
+little and here was his a har moment
+using gpt1 mini and 43 seconds of
+thought it came up with an entirely new
+clever and correct proof that he
+described as being more elegant than the
+human proof it must be said that most of
+this is anecdotal but it at least shows
+that the claim isn't completely
+outrageous from Sam Alman yes there are
+plenty of benchmarks where 01 preview is
+still not scoring top marks to give one
+example here's a new one called scode
+where 01 preview scores just 7.7% a
+noticeable step up from other models but
+what is this Benchmark testing well it
+includes several research problems that
+are built upon or reproduce methods used
+in Nobel prize winning studies including
+things like the hdan model for the
+anomalous Quantum hall effect to get
+questions right you would need abundant
+high quality data not usually made
+available to current language models the
+language models have to generate code
+for solving real scientific research
+problems and it's not enough just to get
+these sub problems right there's 338 of
+those the models have to compose
+solutions from from those sub problems
+to get the at challenging main problems
+correct it's an amazing and useful
+Benchmark but seems more opposite for a
+level four model than a level two one
+this is certainly not average human
+level problem solving so I return to
+that question is it not now easier to
+come up with a reasoning challenge the
+01 passes and an educated adult fails
+than to find one where it's the other
+way around I say this as the author of
+simple bench where it is the other way
+around and models underperform form
+humans but it seems harder to create
+such a benchmark than the other way
+around as samman said of the tring test
+I don't want everyone just to ignore the
+fact that we have passed average human
+level reasoning then we could throw in
+the fact that Mentor permits the law
+schooled admissions test as an
+admissions criteria to Menor because 01
+can crush the elsat it now qualifies for
+Menor 18 years early according to 2020
+metaculus predictions do you remember
+what comes next in that levels of AGI
+chart what is level three agents just a
+couple of days ago in the financial
+times the chief product officer at open
+AI claimed this we want to make it
+possible to interact with AI in all of
+the ways that you interact with another
+human being these more agentic systems
+are going to become possible and it is
+why I think
+2025 is going to be the year that
+agentic systems finally hit the
+mainstream I can see that taking a
+little bit longer though because unless
+it had
+99.99% accuracy I wouldn't trust an 01
+agent with my credit card one ability
+that will be absolutely crucial if
+agents are to work obviously is
+self-correction as I described recently
+on AI Insiders on patreon speaking of
+which a very quick shout out if anyone's
+in California Sweden India or Japan for
+the regional networking that's going on
+on Discord what I will say though is
+that if open AI can turn reasoning into
+a agency I can see why they had a $157
+billion valuation that's great timing
+given their imminent switch from being a
+capped profit entity to a for profit
+entity as we learned today in the
+information it actually gets more
+serious than that openai has proposed
+letting investors claw their money back
+within 2 years if it fails to convert
+itself into a for profit entity now for
+some of you I might have buried the lead
+because just 18 hours ago we learned
+this of the fundraising of open aai
+Reuters reports that one of the Clauses
+in joining in that funding round was
+that the investors don't also fund rival
+outfits that includes Ilia sater's safe
+superintelligence anthropic perplexity
+xai and others now I don't think that
+will be a problem for the likes of xai
+funded by Elon Musk but Ilia sata's safe
+super intelligence might face a bit more
+of a funding struggle according to the
+New York Times revenues are expected to
+balloon to almost $12 billion next year
+though openai are expected to lose $5
+billion this year why well the costs
+related to running its services and
+other expenses like employee salaries
+and office rent setting aside short-term
+revenue and cost one key question for
+open ai's Future is whether this fifth
+Clause from their Charter still applies
+their board will determine when they've
+achieved AGI by AGI they mean a highly
+autonomous system that outper forms
+humans at most economically valuable
+work such a system is excluded from
+intellectual property licenses and other
+commercial terms with Microsoft those
+terms only apply to pre AGI technology
+now you don't need me to point out that
+that sets up an incentive to push the
+definition of AGI as far away as
+possible is that Clause what prompted
+these five generous levels of AGI notice
+if so we're drifting away from concepts
+of intelligence and reasoning to other
+more nebulous attributes human level
+reasoning isn't AGI and even agents that
+take actions aren't AGI these systems
+have to do the work of entire
+organizations you can let me know what
+you think in the comments but many
+people would say a more reasonable
+definition of AGI would have arrived
+well before this point as a quick fun
+experiment I looked up Microsoft's
+definition of AGI and we got far into
+sci-fi AGI apparently may even take us
+beyond our planet by unlocking the doors
+to space exploration it could help us
+develop Interstellar technology and
+identify and terraform potentially
+habitable exoplanets it may even shed
+light on the origins of life and the
+universe if this ever becomes the
+definition of AGI Microsoft will be
+minting money to almost the end of time
+speaking of Microsoft I wanted to show
+you guys this and I think it's fair to
+say that potentially after seeing 01
+Bill Gates has somewhat shifted his
+timeline I reported on an interview in
+handles blat where Bill Gates said he
+didn't expect GPT 5 to be much better
+than GPT 4 he was super impressed of
+course with GPT 4 but just saw some
+limits to where scaling could take us
+contrast that with this clip from this
+week it's the first technology that has
+no limit I mean when you invent a
+tractor or even a cell phone you kind of
+figure out okay that's we can figure out
+how that's going to change life here
+where the AI
+is very intelligent and when you put it
+in robotic form it can do a lot of both
+blue collar and white collar jobs the
+fact that's happening over the next
+decade the idea of do we really trust
+government to adjust the tax policies
+and make sure that you okay we're
+shortening the work week so it's
+happening very fast and it's unlimited a
+lot of it is super good like you know
+inner suity inner city uh personal
+tutors for all the kids
+uh great healthare even in the poor
+countries uh so the good stuff which
+maybe gets crowded out uh by the these
+fears um That's so exciting we're going
+to end the video with the final samman
+quote but just before then I want to
+highlight yet again notebook LM from
+Google if you didn't catch it in the
+last video it's an amazing new tool
+powered by Gemini 1.5 Pro as most of you
+might already be aware you can turn any
+PDF audio file or now any YouTube url
+into a podcast and it's not just PDFs
+documents YouTube videos or audio files
+that you can add either I can imagine
+millions of students taking class
+materials and their own handwritten
+notes feeding it into notebook LM for
+free by the way and getting amazing
+podcasts out and in case you missed it
+last time it's literally as easy as
+clicking try notebook LM and then new
+notebook upload one or multiple sources
+now including YouTube URLs then the
+option will spring up to generate the
+audio click that and it takes 2 or 3
+minutes I've seen people take literally
+anything including absolutely absurd
+sources and turning them into engaging
+podcasts I will say that if you want the
+transcription that the podcast host used
+to be extra accurate do check out
+assembly AI universal one I'm super
+proud they're sponsoring this video
+because their universal one model has
+amazing speech to text accuracy yes it
+does handle my rather Rough Around the
+Edges London accent you can see some of
+the comparisons to other models down
+below and the link will be in the
+description to check them out here
+though is the saman quote from Dev day
+that I found somewhat intriguing he
+speaks almost optimistically about a
+model one day automating open AI itself
+even the Ching test which I thought
+always was like this very clear
+Milestone you know there was this like
+fuzzy period it kind of like went
+whooshing by no one cared
+uh but but I I think the right framework
+is just this one exponential that said
+um if we can make an AI system that is
+like materially better at all of open AI
+than doing at doing AI research that
+does feel to me like some sort of
+important
+discontinuity it's probably still wrong
+to think about it that way it probably
+still is the smooth exponential curve
+but that feels like a real Milestone mhm
+we are almost certainly nowhere close to
+that level now but there is one caveat I
+wanted to give saman describes
+automating open AI itself but in open
+ai's own preparedness framework that
+would be a critical threshold they say
+if the model is able to conduct AI
+research fully autonomously it could set
+off an intelligence explosion moreover
+they say we will not deploy AI systems
+that pose a risk level of high or
+critical and we will not even train
+critical ones given their level of risk
+it almost seemed like Sam mman was
+speculating about a model that open AI
+itself promised to never train as always
+though I'm curious what you think so
+thank you so much for watching to the
+end and please do have a wonderful day
