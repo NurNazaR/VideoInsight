@@ -11,6 +11,12 @@ Features
 * SQLite Database: Stores history of summaries for easy retrieval.
 * RAG-Based Chatbot: Provides intelligent, context-aware interactions.
 
+## Screenshots
+
+![Youtube video summary](screenshots/video_to_summary.png)
+![Chat with your videos](screenshots/chat_with_your_video.png)
+![History of summaries](screenshots/history_of_summaries.png)
+
 
 ## Run Locally
 
@@ -44,7 +50,11 @@ Run main.py file and web app will be hosted in local 5001 port
 ```bash
   python main.py
 ```
-
+Open the browser and put below url
+![](screenshots/login_page.png)
+```bash
+  http://localhost:5001/login
+```
 ## Acknowledgements
  - [FastHTML documentation](https://docs.fastht.ml/)
  - [FastHTML example repos](https://github.com/AnswerDotAI/fasthtml/tree/main/examples)
