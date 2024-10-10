@@ -55,6 +55,11 @@ Open the browser and put below url
 ```bash
   http://localhost:5001/login
 ```
+## How to Contribute
+
+VideoInsight is currently in the prototype stage and may experience latency issues (LLM inference can be slow). If you'd like to help with deployment or have suggestions for improvement, feel free to contact us. Your contributions are greatly appreciated!
+
+
 ## Acknowledgements
  - [FastHTML documentation](https://docs.fastht.ml/)
  - [FastHTML example repos](https://github.com/AnswerDotAI/fasthtml/tree/main/examples)
